@@ -10,7 +10,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @version 1.0
  * @date 2021/2/3 11:09
  */
-
 @SpringBootApplication
 public class PaymentMain8001 {
     public static void main(String[] args) {
