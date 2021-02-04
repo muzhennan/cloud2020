@@ -29,7 +29,7 @@ public class PaymentController {
     @GetMapping(value = "/payment/get/{id}")
     public CommonResult getPaymentById(@PathVariable("id") Long id) {
         Payment payment = paymentService.getPaymentById(id);
-        log.info("*****查询结果："+payment);
+        log.info("*****查询结果："+payment+"dfdfd");
         if (payment != null) {//说明有数据，能查询成功
             return new CommonResult(200, "查询成功", payment);
         } else {
