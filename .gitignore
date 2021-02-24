@@ -50,3 +50,15 @@
 /cloud-provider-hystrix-payment8001/target/
 /cloud-provider-hystrix-payment8001/out/
 /cloud-provider-hystrix-payment8001/*.iml
+
+/cloud-gateway-gateway9527/.idea/
+/cloud-gateway-gateway9527/target/
+/cloud-gateway-gateway9527/out/
+/cloud-gateway-gateway9527/*.iml
+
+/cloud-consumer-hystrix-dashboard9001/.idea/
+/cloud-consumer-hystrix-dashboard9001/target/
+/cloud-consumer-hystrix-dashboard9001/out/
+/cloud-consumer-hystrix-dashboard9001/*.iml
+
+
