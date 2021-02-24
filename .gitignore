@@ -61,4 +61,7 @@
 /cloud-consumer-hystrix-dashboard9001/out/
 /cloud-consumer-hystrix-dashboard9001/*.iml
 
-
+/*/.idea/
+/*/target/
+/*/out/
+/*/*.iml
